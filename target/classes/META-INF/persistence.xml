@@ -5,7 +5,7 @@
     <class>com.mycompany.proyectocrud_2.Lógica.Jugador</class>
     <class>com.mycompany.proyectocrud_2.Lógica.Reporte</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/proyectocrud_2?serverTimezone=UTC"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3307/proyectocrud2?serverTimezone=UTC"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
       <property name="javax.persistence.jdbc.password" value=""/>
